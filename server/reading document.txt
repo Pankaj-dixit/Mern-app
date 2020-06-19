@@ -1,0 +1,5 @@
+Express: It’s the server framework (The E in MERN).
+Body Parser: Responsible to get the body off of network requests.
+Nodemon: Restart the server when it sees changes (for a better dev experience).
+Cors: Package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+Mongoose: It’s an elegant MongoDB object modeling for node.js

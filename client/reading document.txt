@@ -1,0 +1,5 @@
+axios: It’s a promise-based the asynchronous code. It’s the most popular promise based HTTP.
+bootstrap: It’s is an open-source toolkit and the most popular front-end component library where allows you for developing with HTML, CSS, and JS.
+styled-components: It allows you to write actual CSS code to style your components.
+react-table: It’s a lightweight, fast, and extendable data grid built for React.
+react-router-dom: DOM bindings for React Routers.
